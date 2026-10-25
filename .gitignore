@@ -1,0 +1,61 @@
+# Unity generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Build outputs
+/[Bb]uild/
+/[Bb]uilds/
+*.apk
+*.aab
+*.unitypackage
+
+# Generated IDE projects and local settings
+/.vs/
+/.idea/
+/.vscode/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.csproj.meta
+*.sln.meta
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Unity crash reports
+sysinfo.txt
+mono_crash.*
+*.stackdump
+
+# Local audio calibration captures and generated plots
+/Captures/
+/outputs/
+/.venv-plot/
+/data.csv
+/data.vsc
+/data_graph_*.png
+/frequency_amplitude*.png
+/latest_data_frequency_amplitude.png
+/new_capture_log_graph.png
+/new_data_frequency_amplitude.png
+
+# Operating system files
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
